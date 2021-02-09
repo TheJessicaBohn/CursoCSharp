@@ -2,11 +2,12 @@
 
 namespace PrimeiroProjeto
 {
-    class Program
+    class Aula_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Curso de CSharp Completo ");
+            Console.ReadLine();
         }
     }
 }

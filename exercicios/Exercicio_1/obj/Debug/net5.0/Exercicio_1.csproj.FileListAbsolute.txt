@@ -1,0 +1,16 @@
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.csprojAssemblyReference.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.AssemblyInfoInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.AssemblyInfo.cs
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\bin\Debug\net5.0\Exercicio_1.exe
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\bin\Debug\net5.0\Exercicio_1.deps.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\bin\Debug\net5.0\Exercicio_1.runtimeconfig.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\bin\Debug\net5.0\Exercicio_1.runtimeconfig.dev.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\bin\Debug\net5.0\Exercicio_1.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\bin\Debug\net5.0\ref\Exercicio_1.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\bin\Debug\net5.0\Exercicio_1.pdb
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\ref\Exercicio_1.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.pdb
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios\Exercicio_1\obj\Debug\net5.0\Exercicio_1.genruntimeconfig.cache
