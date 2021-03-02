@@ -14,7 +14,7 @@
 	- Tipo nome;
 	- Tipo nome = valor;
 
-- ** Exemplos:**
+- **Exemplos:**
 	- Int codigo;
 	- String nome = "Jéssica Bohn";
 		
@@ -40,7 +40,7 @@
 	- Tipos de matriz unidimencional e multidimencional. Ex: int[] e int[,];
 	- Delegates. Ex: delegate int D(...);
 	
-- ** Tipos mais comuns**
+- **Tipos mais comuns**
 	- int -> 4 bytes;
 	- long -> 8 bytes;
 	- float -> 4 bytes;
@@ -61,13 +61,25 @@
 - Mesmas regras de nome que as variáveis;
 - Valor atribuído na declaração;
 - Exemplo: const euler = 2,718281; 
+
+## Concatenação:
+- Junção de strings por literais e ou variáveis
+	- Operadores:
+		- **+**;
+		- $ (>= C# 6.0).
+	- Métodos:
+		- Concat (utilizado: -1000 strings);
+		- Format;
+		- Join(um pouco mais lento que o concat).
+	- Classe:
+		- Stringbuilder (utilizado: +1000 strings).
  	
 	
 	
 ## Como seguir:
-- Framework
-- Primeiro Projeto
-- exercicios
+- **Framework**
+- **Primeiro Projeto**
+- **[Exercicios](https://github.com/TheJessicaBohn/CursoCSharp/tree/main/exercicios)**
 
 # Fontes:
 - http://www.elfutec.com
