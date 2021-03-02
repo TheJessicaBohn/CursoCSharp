@@ -21,7 +21,7 @@
 ## Tipos:
 
 - **Simples**
-	- ** Numericos:**
+	- **Numericos:**
 		- **Integer Types**
 		- Inteiro com sinal: sbyte, short, int, long;
 		- Inteiro sem sinal: byte, ushort, uint, ulong;
