@@ -8,7 +8,7 @@
 - Terminador de comandos: ";";
 - Nomes de arquivos não tem relação obrigatória com o nome das classes
 
-## Declaração e atribuição:
+## Declaração e atribuíção:
 
 - **Formas Básicas:**
 	- Tipo nome;
@@ -73,7 +73,52 @@
 		- Join(um pouco mais lento que o concat).
 	- Classe:
 		- Stringbuilder (utilizado: +1000 strings).
- 	
+
+## Comentários:
+- são trechos do código que o compilador ignora
+	- Geram documentação;
+	- Sumarios/ explicação;
+	- ToDos, list;
+- // linha //;
+- /* bloco */;
+- /// documentação ;
+- Documentação: **TODO, HACK, UNDONE**;
+
+## Conversão de tipos:
+- Type Casting é a atribuíção de um valor ou dado para outro tipo do mesmo;
+- Existem dois tipos de atribuíção:
+	- Implicit Casting: Transformação de um menor para um maior:
+		- char < int < long < float < double
+	- Explicit Casting: Transformação de um maior para um menor:		
+		- double > float > long > int > char
+
+## Operadores:
+- Aritméticos:
+	- `+` soma;
+	- `-` subtração;
+	- `*` multiplicação 
+	- `/` divisão;
+	- `%` resto da divisão;
+	- `++` incremento de um; 
+	- `--` decremento de um;
+- Atribuíção:
+	- `=` atribuíção simples;
+	- `+=` atribuíção com soma;	
+	- `-=` atribuíção com subtração;
+	- `*=` atribuíção com multiplicação;
+	- `/=` atribuíção com divisão;
+	- `%=` atribuíção com resto da divisão;
+- Comparação:
+	- `==` igualdade;
+	- `!=` diferença;	
+	- `>` maior;
+	- `<` menor;
+	- `>=` maior ou igual;
+	- `<=` menor ou igual;	
+- Comparação:
+	- `&&` AND (E);
+	- `||` OR(OU);	
+	- `!` NOT(NEGAÇÂO);	
 	
 	
 ## Como seguir:
