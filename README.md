@@ -91,6 +91,23 @@
 		- char < int < long < float < double
 	- Explicit Casting: Transformação de um maior para um menor:		
 		- double > float > long > int > char
+## Classe Convert:
+- Converte um tipo de dados para outro, e pode ser acessada diretamente, podendo conter 5 possíveis resultados:
+	- **Não conversão:** Quando há tentativa de conversão frustrada;
+	- ** InvalidCastException:** 
+	- 
+- ToInt16;
+- ToInt32;
+- ToInt64;
+- ToSingle;
+- ToBoolean;
+- ToByte;
+- ToChar;
+- ToString;
+- ToDateTime;
+- ToDecimal;
+- ToDouble.
+- ToDouble.
 
 ## Operadores:
 - Aritméticos:
