@@ -1,7 +1,62 @@
 # CursoCSharp
 
 ## O que é o C#:
--
+- É uma linguagem orientada a objetos
+
+## O que é POO
+- Programação orientada a objetos: 
+ - Criada por Alan Kay, em 1970, que juntou a biologia e a matemática para criá-la;
+- O que é um objeto:
+	- É algo material ou abstrato que pode ser percebido  pelos sentidos  e descrita  por meio das suas caracteristicas, comportamentos e estado atual;
+	- Classe (Define os atributos e métodos comuns que serão compartilhados  por um objeto) Caneta:
+		- Atributo (Coisas que eu tenho): modelo, cor, ponta, carga, tampada;  
+		- Método (Coisas que eu faço): escrever, rabiscar, pintar, tampar, destampar;
+		- Estado (Como estou agora): nesse momento está com metade da carga, ponta está fina, azul, destampada, e escrevendo;
+		- **Exemplo:**
+		```
+		Classe Caneta
+			modelo: string;
+			cor: string;
+			ponta: float;
+			carga: int;
+			tampada: bool;
+			
+			Método rabiscar()
+				if(tampada){
+				escreva("ERRO")
+				}else{
+				escreva("RABISCO)}
+			FimMétodo
+			
+			Método tampar()
+				tampada = verdadeiro
+			FimMétodo
+		FimClasse	
+		```
+	- Quanto temos uma classe e queremos transforma-la em um objeto(instancia de uma classe), eu chamo de **instanciar**, ou seja, gero um objeto a partir de uma classe;
+		-**Exemplo: de instancia**
+		```
+		c1 = new Caneta;
+		c1.cor = "Azul";
+		c1.ponta = 0.5;
+		c1.tampada = falso;
+		c1.rabiscar();
+		
+		c2 = new Caneta;
+		c2.cor = "Vermelho";
+		c1.ponta = 1.0;
+		c1.tampada = falso;
+		c1.tampar();
+		```
+	- Abstração:
+		- Uma classe do tipo pessoa, possui os mesmos atributos, porém com estados diferentes, então a ideia é definir quais os atributos relevantes para o meu tipo de projeto
+- Vantagens:
+	- Confiabiliadade: pois isola as partes gerando assim um software seguro, porque ao alterar uma parte nenhuma outra será alterada;
+	- Oportuno: como é dividida em partes várias delas podem ser desenvolvidas em paralelo;
+	- Manutenabilidade: maior facilidade de atualização do software, e uma pequena modificação vai beneficiar todas as partes que utilizarem o objeto;
+	- Extensibilidade: se o software não cresce, ele vira legado e deixa de ser utíl;	
+	- Reutizabilidade: pode-se utilizar um objeto de um sistema que criamos em um outro sistema parecido futuramente
+	- Natural: maior compreenção do código, podendo manter o foco  mais na funcionalidade do que nos detalhes da implementação
 
 ## Algumas caracteristicas da linguagem:
 - Linguagem case-sensitive;
@@ -145,3 +200,4 @@
 
 # Fontes:
 - http://www.elfutec.com
+- https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&ab_channel=CursoemV%C3%ADdeo
