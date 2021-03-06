@@ -63,7 +63,7 @@
 - Terminador de comandos: ";";
 - Nomes de arquivos não tem relação obrigatória com o nome das classes
 
-## Declaração e atribuíção:
+## Declaração e atribuição:
 
 - **Formas Básicas:**
 	- Tipo nome;
@@ -140,8 +140,8 @@
 - Documentação: **TODO, HACK, UNDONE**;
 
 ## Conversão de tipos:
-- Type Casting é a atribuíção de um valor ou dado para outro tipo do mesmo;
-- Existem dois tipos de atribuíção:
+- Type Casting é a atribuição de um valor ou dado para outro tipo do mesmo;
+- Existem dois tipos de atribuição:
 	- Implicit Casting: Transformação de um menor para um maior:
 		- char < int < long < float < double
 	- Explicit Casting: Transformação de um maior para um menor:		
@@ -173,13 +173,13 @@
 	- `%` resto da divisão;
 	- `++` incremento de um; 
 	- `--` decremento de um;
-- Atribuíção:
-	- `=` atribuíção simples;
-	- `+=` atribuíção com soma;	
-	- `-=` atribuíção com subtração;
-	- `*=` atribuíção com multiplicação;
-	- `/=` atribuíção com divisão;
-	- `%=` atribuíção com resto da divisão;
+- Atribuição:
+	- `=` atribuição simples;
+	- `+=` atribuição com soma;	
+	- `-=` atribuição com subtração;
+	- `*=` atribuição com multiplicação;
+	- `/=` atribuição com divisão;
+	- `%=` atribuição com resto da divisão;
 - Comparação:
 	- `==` igualdade;
 	- `!=` diferença;	
