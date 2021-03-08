@@ -11,10 +11,12 @@ namespace Exercicio_3
             // typecast implícito
             variavel_float = variavel_inteira;
             System.Console.WriteLine(variavel_float);
+            
             // type explicíto
             variavel_float = 5.5f;
             variavel_inteira = (int)variavel_float;
             System.Console.WriteLine(variavel_inteira);
+           
             // classe convert
             int var_inteira = 15;
             float  var_float = System.Convert.ToInt32(var_inteira);
@@ -42,12 +44,6 @@ namespace Exercicio_3
 
             booleano = System.Convert.ToBoolean(caractere);
             System.Console.WriteLine(booleano);
-
-
-            
-
-
-
         }
     }
 }

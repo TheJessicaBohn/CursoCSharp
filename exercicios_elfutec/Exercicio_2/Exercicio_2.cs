@@ -25,8 +25,6 @@ namespace Exercicio_2
             Console.WriteLine("5- " +"Foi na " + tres + " que " + dois + " conheceu " + um );
             Console.WriteLine("6- " + dois + " e " + um + " trabalham na mesma equipe");
 
-
-
         }
     }
 }
