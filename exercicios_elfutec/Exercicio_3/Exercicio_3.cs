@@ -23,6 +23,26 @@ namespace Exercicio_3
             var_float = 23.15f;
             var_inteira = System.Convert.ToInt32(var_float);
             System.Console.WriteLine(var_inteira);
+            
+            // utilizando operadores
+            int soma = 1 + 2;
+            int atribuicao_subtracao = 1;
+
+            if (soma >= 3 || soma == 0 ){
+                
+                atribuicao_subtracao -=3;
+                System.Console.WriteLine(atribuicao_subtracao);
+            }
+
+            // typeCast com erro
+            bool booleano = true;
+            char caractere ='a';
+            System.Console.WriteLine(booleano);
+            System.Console.WriteLine(caractere);
+
+            booleano = System.Convert.ToBoolean(caractere);
+            System.Console.WriteLine(booleano);
+
 
             
 

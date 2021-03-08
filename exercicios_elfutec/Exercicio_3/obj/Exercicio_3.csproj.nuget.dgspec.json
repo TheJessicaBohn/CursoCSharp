@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios\\Exercicio_3\\Exercicio_3.csproj": {}
+    "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios_elfutec\\Exercicio_3\\Exercicio_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios\\Exercicio_3\\Exercicio_3.csproj": {
+    "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios_elfutec\\Exercicio_3\\Exercicio_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios\\Exercicio_3\\Exercicio_3.csproj",
+        "projectUniqueName": "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios_elfutec\\Exercicio_3\\Exercicio_3.csproj",
         "projectName": "Exercicio_3",
-        "projectPath": "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios\\Exercicio_3\\Exercicio_3.csproj",
+        "projectPath": "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios_elfutec\\Exercicio_3\\Exercicio_3.csproj",
         "packagesPath": "C:\\Users\\JessicaBohn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios\\Exercicio_3\\obj\\",
+        "outputPath": "C:\\Users\\JessicaBohn\\Desktop\\Git\\CursoCSharp\\exercicios_elfutec\\Exercicio_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
