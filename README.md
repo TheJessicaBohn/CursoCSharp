@@ -157,7 +157,7 @@
 - ToSingle;
 - ToBoolean;
 - ToByte;
-- ToChar;
+-  ;
 - ToString;
 - ToDateTime;
 - ToDecimal;
@@ -192,6 +192,17 @@
 	- `||` OR(OU);	
 	- `!` NOT(NEGAÇÂO);	
 	
+## Strings:
+- São objetos de texto;
+- Acessada como um vetor de caracterer;
+- Com 4 estados possíveis:
+	- nul;
+	- empty(String.Empty);
+	- somente espaçoes em branco ("   ");
+	- algum conteúdo ("Qulquer coisa");
+- Atalhos:
+	- `IsNullOrEmpty` cerifica se é nula ou vazia;
+	- `IsNullOrWhiteSpace`
 	
 ## Como seguir:
 - **Framework**
