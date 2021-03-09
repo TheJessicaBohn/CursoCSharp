@@ -1,0 +1,16 @@
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.csprojAssemblyReference.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.AssemblyInfoInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.AssemblyInfo.cs
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\bin\Debug\net5.0\Exercicio_4.exe
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\bin\Debug\net5.0\Exercicio_4.deps.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\bin\Debug\net5.0\Exercicio_4.runtimeconfig.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\bin\Debug\net5.0\Exercicio_4.runtimeconfig.dev.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\bin\Debug\net5.0\Exercicio_4.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\bin\Debug\net5.0\ref\Exercicio_4.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\bin\Debug\net5.0\Exercicio_4.pdb
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\ref\Exercicio_4.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.pdb
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_4\obj\Debug\net5.0\Exercicio_4.genruntimeconfig.cache
