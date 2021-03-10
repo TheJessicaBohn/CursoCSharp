@@ -192,6 +192,17 @@
 	- `||` OR(OU);	
 	- `!` NOT(NEGAÇÂO);	
 	
+## Literais
+- São caracteres especiais de escape que trazem um comportamento especial dentro das strings
+	- `\t` tabulação
+	- `\n` quebra de linha
+	- `\'` aspas simples;
+	- `\"` aspas duplas;
+	- `\\` barra simples;
+	- `\0` Nulo;
+	- `'` tabulação;
+	- @ transforma os literais em  uma string de caracteres comuns;
+	
 ## Strings:
 - São objetos de texto;
 - Acessada como um vetor de caracterer;
