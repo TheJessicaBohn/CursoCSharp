@@ -108,7 +108,7 @@
 - Pode conter letras, digítos  e o "_";
 - Deve sempre começar com uma letra;
 - Não pode conter espaço em branco;
-- São diferenciadas por maiúscuas e minúsculas;
+- São diferenciadas por maiúsculas e minúsculas;
 - Não se pode utilizar as palavras reservadas da linguagem( ver em https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/);
 
 ## Constantes:
@@ -214,6 +214,34 @@
 - Atalhos:
 	- `IsNullOrEmpty` cerifica se é nula ou vazia;
 	- `IsNullOrWhiteSpace`
+- Principais métodos:
+	- **IndexOf**: retorna o indice zero (primeiro caractere), da string, se caso a string não for encontrada, retorna -1;
+		- Exemplo:
+			- string texto = " Curso de C#";
+			- Console.WriteLine(texto.IndexOf('C')); -> retorna 0;
+	- **LastIndexOf**: retorna a ultima ocorrência da string, e caso não encontre retorna -1;
+		- Exemplo:
+			- string texto = "Curso de C#";
+			- Console.WriteLine(texto.IndexOf('#')); -> retorna 11;
+	-  **Replace**: Faz a substituíção de caracteres ou strings passadas por parâmetro:
+		- Exemplo:
+			- string textoComErro = "João tinha uma caza" +
+									"Sua caza foi vendida";
+			- Console.WriteLine(textoComErro.Replace("caza", "casa")); -> nesse exemplo ele substitui todas as ocorrências de caza por casa;
+	- **Substring**: retorna uma parte da string  a partir de uma parametro		
+		- Exemplo:
+			- string textoCompleto = "Água mole em pedra dura, tanto bate até que fura";
+			- Console.WriteLine(textoCompleto.Substring(24)); -> retorna "tanto bate até que fura";
+	- **ToLower e ToUpper**: retorna respectivamente uma string minúscula e maiúscula;
+		- Exemplo:
+			- string textoEmMinusculo = "texto em minúsculo";
+			- Console.WriteLine(textoEmMinusculo.ToUpper()); -> converte todos os caracteres em maiúsculos;
+			- string textoEmMaiusculo = "TEXTO EM MAIÚSCULO";
+			- Console.WriteLine(textoEmMaiusculo.ToLower()); -> converte todos os caracteres em minúsculos;
+	- **Trim**: corta as "pontas" iniciais e finais de um conjuntos de caracteres definidos;
+		- Exemplo:
+			- string textoParaTrim = "  Texto para Trim  ";
+			- Console.WriteLine(textoParaTrim.Trim()); -> re;
 	
 ## Como seguir:
 - **Framework**
