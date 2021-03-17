@@ -241,7 +241,37 @@
 	- **Trim**: corta as "pontas" iniciais e finais de um conjuntos de caracteres definidos;
 		- Exemplo:
 			- string textoParaTrim = "  Texto para Trim  ";
-			- Console.WriteLine(textoParaTrim.Trim()); -> re;
+			- Console.WriteLine(textoParaTrim.Trim()); -> retorna "Texto para Trim";
+	- **PadLeft e PadRight**: retrona uma string de um comprimento determinado por parâmetro, no qual o início ou término  atual, respectivamente, é preenchido com caracter especificado.
+			- Exemplo:
+				- string textoBase = "1234";
+				- Console.WriteLine(textoBase.PadLeft(10)); -> retorna "      1234";
+				- Console.WriteLine(textoBase.PadLeft(10,'0')); -> retorna "0000001234";
+				- Console.WriteLine(textoBase.PadLeft(10,'.')); -> retorna "1234......";
+	- **Split**: retorna strings "quebradas" por um ou mais caracteres passados por parametro
+		- Exemplo:
+				- string nome = "Ana,Maria,José,Alana;Suely,Antonio:     ,Sonia";
+				- char[] separators = {';',','};
+				- string[] listaNomes = nomes.Split(separators);
+				foreach (string nome in listaNomes)
+						Console.WriteLine(nome); -> retorna  uma lista de nomes separados por ',' e ';'	
+	- **Join**: concatenação de strings
+		- Exemplo:
+			- string[] listaClubes = new string[]{"São Paulo", "Corinthians", "Flamengo", "Vasco"};
+			- string clubes = String.Join(";", listaClubes); -> retorna  uma lista de nomes separados por ';'	
+			- Console.WriteLine(clubes);
+			- string clubesRio = Strings.Join(";", listaClubes, 2,1); -> retorna  uma string com dois clubes da lista, começando  pela posição 1, separado por ";"
+			- Console.WriteLine(clubesRio);
+			
+	- **StartsWith e EndsWith**: mostra se a string começa ou termina, com passagem de parametro.
+		- Exemplo:
+			- string mensagem = " O rato roeu a roupa de rei de roma";
+			- Console.WriteLine(mensagem.StartsWith);
+			- Console.WriteLine(mensagem.StartsWith);
+			- Console.WriteLine(mensagem.EndsWith);
+			- Console.WriteLine(mensagem.EndsWith);
+			
+		
 	
 ## Como seguir:
 - **Framework**
