@@ -219,35 +219,43 @@
 		- Exemplo:
 			- string texto = " Curso de C#";
 			- Console.WriteLine(texto.IndexOf('C')); -> retorna 0;
+	
 	- **LastIndexOf**: retorna a ultima ocorrência da string, e caso não encontre retorna -1;
 		- Exemplo:
 			- string texto = "Curso de C#";
 			- Console.WriteLine(texto.IndexOf('#')); -> retorna 11;
+	
 	-  **Replace**: Faz a substituíção de caracteres ou strings passadas por parâmetro:
 		- Exemplo:
 			- string textoComErro = "João tinha uma caza" +
 									"Sua caza foi vendida";
 			- Console.WriteLine(textoComErro.Replace("caza", "casa")); -> nesse exemplo ele substitui todas as ocorrências de caza por casa;
+	
 	- **Substring**: retorna uma parte da string  a partir de uma parametro		
 		- Exemplo:
 			- string textoCompleto = "Água mole em pedra dura, tanto bate até que fura";
 			- Console.WriteLine(textoCompleto.Substring(24)); -> retorna "tanto bate até que fura";
+			- Console.WriteLine(textoCompleto.Substring(24, 10)); -> retorna 10 caracteres a partir a posição 24 "tanto bate";
+	
 	- **ToLower e ToUpper**: retorna respectivamente uma string minúscula e maiúscula;
 		- Exemplo:
 			- string textoEmMinusculo = "texto em minúsculo";
 			- Console.WriteLine(textoEmMinusculo.ToUpper()); -> converte todos os caracteres em maiúsculos;
 			- string textoEmMaiusculo = "TEXTO EM MAIÚSCULO";
 			- Console.WriteLine(textoEmMaiusculo.ToLower()); -> converte todos os caracteres em minúsculos;
+	
 	- **Trim**: corta as "pontas" iniciais e finais de um conjuntos de caracteres definidos;
 		- Exemplo:
 			- string textoParaTrim = "  Texto para Trim  ";
 			- Console.WriteLine(textoParaTrim.Trim()); -> retorna "Texto para Trim";
+	
 	- **PadLeft e PadRight**: retrona uma string de um comprimento determinado por parâmetro, no qual o início ou término  atual, respectivamente, é preenchido com caracter especificado.
 			- Exemplo:
 				- string textoBase = "1234";
 				- Console.WriteLine(textoBase.PadLeft(10)); -> retorna "      1234";
 				- Console.WriteLine(textoBase.PadLeft(10,'0')); -> retorna "0000001234";
 				- Console.WriteLine(textoBase.PadLeft(10,'.')); -> retorna "1234......";
+	
 	- **Split**: retorna strings "quebradas" por um ou mais caracteres passados por parametro
 		- Exemplo:
 				- string nome = "Ana,Maria,José,Alana;Suely,Antonio:     ,Sonia";
@@ -255,6 +263,7 @@
 				- string[] listaNomes = nomes.Split(separators);
 				foreach (string nome in listaNomes)
 						Console.WriteLine(nome); -> retorna  uma lista de nomes separados por ',' e ';'	
+	
 	- **Join**: concatenação de strings
 		- Exemplo:
 			- string[] listaClubes = new string[]{"São Paulo", "Corinthians", "Flamengo", "Vasco"};
@@ -266,12 +275,11 @@
 	- **StartsWith e EndsWith**: mostra se a string começa ou termina, com passagem de parametro.
 		- Exemplo:
 			- string mensagem = " O rato roeu a roupa de rei de roma";
-			- Console.WriteLine(mensagem.StartsWith);
-			- Console.WriteLine(mensagem.StartsWith);
-			- Console.WriteLine(mensagem.EndsWith);
-			- Console.WriteLine(mensagem.EndsWith);
+			- Console.WriteLine(mensagem.StartsWith("o rato")); -> retorna falso
+			- Console.WriteLine(mensagem.StartsWith("o rato", true, null)); -> retorna true
+			- Console.WriteLine(mensagem.EndsWith("Roma"));  -> retorna falso
+			- Console.WriteLine(mensagem.EndsWith("Roma", true, null)); -> retorna true
 			
-		
 	
 ## Como seguir:
 - **Framework**
