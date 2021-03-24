@@ -1,0 +1,16 @@
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.csprojAssemblyReference.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.AssemblyInfoInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.AssemblyInfo.cs
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.csproj.CoreCompileInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\bin\Debug\net5.0\Exercicio_6.exe
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\bin\Debug\net5.0\Exercicio_6.deps.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\bin\Debug\net5.0\Exercicio_6.runtimeconfig.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\bin\Debug\net5.0\Exercicio_6.runtimeconfig.dev.json
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\bin\Debug\net5.0\Exercicio_6.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\bin\Debug\net5.0\ref\Exercicio_6.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\bin\Debug\net5.0\Exercicio_6.pdb
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\ref\Exercicio_6.dll
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.pdb
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_6_Strings_Metodos_especiais\obj\Debug\net5.0\Exercicio_6.genruntimeconfig.cache
