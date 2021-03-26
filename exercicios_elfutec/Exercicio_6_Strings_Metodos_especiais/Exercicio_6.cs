@@ -49,6 +49,14 @@ namespace Exercicio_6
             Console.WriteLine(entrada4.EndsWith(entrada4));
 			Console.WriteLine(entrada4.EndsWith(entrada5, true, null));
 
+            // Elementos de coleção quebradas
+            string nomes = "Ana, Maria, José, Alana, Suely, Antonio, Sonia";
+            char[] separators = {'a'};
+			string[] listaNomes = nomes.Split(separators);
+			
+            foreach (string nome in listaNomes)
+			Console.WriteLine(nome);
+
         }
     }
 }
