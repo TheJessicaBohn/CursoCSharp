@@ -256,13 +256,13 @@
 				- Console.WriteLine(textoBase.PadLeft(10,'0')); -> retorna "0000001234";
 				- Console.WriteLine(textoBase.PadLeft(10,'.')); -> retorna "1234......";
 	
-	- **Split**: retorna strings "quebradas" por um ou mais caracteres passados por parametro
+	- **Split**: retorna coleção strings "quebradas" por um ou mais caracteres passados por parametro
 		- Exemplo:
 				- string nome = "Ana,Maria,José,Alana;Suely,Antonio:     ,Sonia";
 				- char[] separators = {';',','};
 				- string[] listaNomes = nomes.Split(separators);
 				foreach (string nome in listaNomes)
-						Console.WriteLine(nome); -> retorna  uma lista de nomes separados por ',' e ';'	
+						Console.WriteLine(nome); -> retorna  uma lista de nomes onde somem os separados ',' e ';'	
 	
 	- **Join**: concatenação de strings
 		- Exemplo:
