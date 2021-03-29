@@ -18,8 +18,8 @@ namespace Exercicio_5
 
             // sem caracteres de escape, vê-se que gera erro ao compilar
 
-            string linha_1 = "Linha 1 - "Linha 1"";
-            string linha_2 = "Linha 1 - "Linha 2"";
+            string linha_1 = "Linha 1 - \"Linha 1\"";
+            string linha_2 = "Linha 1 - \"Linha 2\"";
 
             Console.WriteLine(linha_1);
             Console.WriteLine(linha_2);

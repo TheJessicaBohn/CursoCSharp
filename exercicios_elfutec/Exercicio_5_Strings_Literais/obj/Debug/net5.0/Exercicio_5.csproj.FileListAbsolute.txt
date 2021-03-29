@@ -1,3 +1,8 @@
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.csprojAssemblyReference.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.AssemblyInfoInputs.cache
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.AssemblyInfo.cs
+C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.csproj.CoreCompileInputs.cache
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\bin\Debug\net5.0\Exercicio_5.exe
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\bin\Debug\net5.0\Exercicio_5.deps.json
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\bin\Debug\net5.0\Exercicio_5.runtimeconfig.json
@@ -5,11 +10,6 @@ C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Stri
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\bin\Debug\net5.0\Exercicio_5.dll
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\bin\Debug\net5.0\ref\Exercicio_5.dll
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\bin\Debug\net5.0\Exercicio_5.pdb
-C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.csprojAssemblyReference.cache
-C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.AssemblyInfoInputs.cache
-C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.AssemblyInfo.cs
-C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.csproj.CoreCompileInputs.cache
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.dll
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\ref\Exercicio_5.dll
 C:\Users\JessicaBohn\Desktop\Git\CursoCSharp\exercicios_elfutec\Exercicio_5_Strings_Literais\obj\Debug\net5.0\Exercicio_5.pdb
