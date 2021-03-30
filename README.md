@@ -291,7 +291,7 @@
 - **AppendFormat** Adicionar uma string ao objeto logo a frente  do último caractere utilizando  as mesmas técnicas  do método String.Format();
 - **Clear** Apaga/remove todos  os caracteres do objeto 
 
-`
+```
 Stringbuilder sb = new Stringbuilder();
 sb.Append("Palavra1");
 sb.Append('-',20);
@@ -303,7 +303,7 @@ Console.WriteLine(sb.ToString());
 sb.Clear();
 sb.AppendFormat("Código: {0} - Nome: {1}",1, Jéssica);
 Console.WriteLine(sb.ToString());
-`
+```
 			
 	
 ## Como seguir:
