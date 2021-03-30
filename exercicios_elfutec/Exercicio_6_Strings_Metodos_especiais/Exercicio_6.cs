@@ -57,6 +57,27 @@ namespace Exercicio_6
             foreach (string nome in listaNomes)
 			Console.WriteLine(nome);
 
+            // 5 leituras concatenadas
+
+            string[] listaClubes = new string[]{"São Paulo", "Corinthians", "Flamengo", "Vasco", "Fluminense"};
+            string clubes = String.Join(";", listaClubes);
+            Console.WriteLine(clubes);
+
+            // leituras em 5 variaveis
+            Console.WriteLine("palavra 1");
+            string entrada6 = Console.ReadLine();
+            Console.WriteLine("palavra 2");
+            string entrada7 = Console.ReadLine();
+            Console.WriteLine("palavra 3");
+            string entrada8 = Console.ReadLine();
+            Console.WriteLine("palavra 4");
+            string entrada9 = Console.ReadLine();
+            Console.WriteLine("palavra 5");
+            string entrada10 = Console.ReadLine();
+
+            string[] join = new string[] {entrada6, entrada7, entrada8, entrada9, entrada10};
+            string join1 = String.Join(" ", join);
+            Console.WriteLine(join1);
         }
     }
 }
