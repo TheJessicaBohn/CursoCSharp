@@ -280,32 +280,37 @@
 			- Console.WriteLine(mensagem.EndsWith("Roma"));  -> retorna falso
 			- Console.WriteLine(mensagem.EndsWith("Roma", true, null)); -> retorna true
 
-## Stringbuilder	
+## StringBuilder	
 - A implementação é diferente da classe String;
 - Classe que armazena strings mutáveis;
 - Indicada para manipulação  de grandes quantidades de  strings e iterações;
 - Quantidade menor  de métodos de manipulação de textos;
-### Métodos do Stringbuilder:
+### Métodos do StringBuilder:
 - **Append:** Adicionar string ao objeto logo a frente  do último caractere;
 - **AppendLine** Adicionar uma quebra de linha e, opcionalmente, adiciona  uma string antes da quebra;
 - **AppendFormat** Adicionar uma string ao objeto logo a frente  do último caractere utilizando  as mesmas técnicas  do método String.Format();
 - **Clear** Apaga/remove todos  os caracteres do objeto 
 
 ```
-Stringbuilder sb = new Stringbuilder();
+StringBuilder sb = new StringBuilder();
 sb.Append("Palavra1");
 sb.Append('-',20);
-char[] chars = ('a', 'b','c','d','e','f'};
+char[] chars = {'a', 'b','c','d','e','f'};
 sb.Append(chars,2,3);
 sb.AppendLine();
 sb.Append("nova linha");
 Console.WriteLine(sb.ToString());
 sb.Clear();
-sb.AppendFormat("Código: {0} - Nome: {1}",1, Jéssica);
+sb.AppendFormat("Código: {0} - Nome: {1}",1, "Jéssica");
 Console.WriteLine(sb.ToString());
 ```
+Saída -> 
+```
+Palavra1--------------------cde
+nova linha
+Código: 1 - Nome: Jéssica
+```
 			
-	
 ## Como seguir:
 - **Framework**
 - **Primeiro Projeto**
