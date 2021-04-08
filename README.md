@@ -104,7 +104,7 @@
 	- char -> 2 bytes;
 	- string -> 2 bytes por caractere;
 	
-## Regras de nome de variavel:
+## Regras de nome de variável:
 - Pode conter letras, digítos  e o "_";
 - Deve sempre começar com uma letra;
 - Não pode conter espaço em branco;
@@ -310,7 +310,28 @@ Palavra1--------------------cde
 nova linha
 Código: 1 - Nome: Jéssica
 ```
-			
+## Var
+- É para ser utilizado para manipulação de tipos desconhecidos como genericos ou lambda  e expressões de consulta;
+- Se caso o tipo da variável for conehcido o ideal é não utilizar o var;
+- Variáveis do tipo implícito, portanto não podem ser inicializadas na mesma instrução;
+- Uma variável local do tipo é fortemente tipada;
+- Só pode ser usada localmente  na mesma instrução;
+- Não pode ser atribuído null;
+- Também não pode ser escopo da classe;
+- Não podem ser parametros de metódos 
+- "var" induz ao compilador a deduzir e determinar o tipo, e por esse motivo o compilador tem um trabalho maior;
+- Os tipos podem ser interno, anôniomo, definido pelo usuário, ou um tipo da biblioteca das classes do .NET Framework.
+- Ex:
+```
+var texto = "tipo string";
+
+for (var indice = 0; indice < 10; indice++)
+
+var lista = new[] {1,2,3};
+
+using (var tipoArquivo = new StreamReader(C:.....);
+```
+
 ## Como seguir:
 - **Framework**
 - **Primeiro Projeto**
